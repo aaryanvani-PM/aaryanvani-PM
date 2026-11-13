@@ -1,6 +1,6 @@
-# Hi, I'm Aryan Vani
+# Hi, I'm Aryan
 
-**Technical / AI Product Manager · B2B SaaS & AdTech**
+** Product manager / AI Product builder **
 
 I turn product questions into working prototypes, with a focus on LLM routing, evaluation design, inference economics, and human oversight. I connect the user problem, technical trade-offs, and the evidence needed to make a product decision.
 
