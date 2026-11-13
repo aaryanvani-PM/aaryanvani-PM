@@ -14,16 +14,11 @@ I turn product questions into working prototypes, with a focus on LLM routing, e
 
 These are portfolio prototypes. Each README explains what is implemented, what is simulated, and what still needs validation.
 
-### Product background
+### Product experience
 
 - **Silverpush — Associate Product Manager:** Live-stream and VOD advertising, video analytics, and monetization workflows.
 - **Vidgyor — Associate Product Manager:** Multistreaming, video-player monetization, and customer onboarding.
 - **CompUp.io — Product Management Intern:** Product discovery, analytics, and collaboration with Data Science.
 
-### How I work
-
-Frame the problem → make assumptions explicit → build a testable prototype → define quality and economic guardrails → document the decision.
-
-**Hands-on stack:** TypeScript, React, Node.js, Express, and Gemini API integrations.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/aryan-vani/)
