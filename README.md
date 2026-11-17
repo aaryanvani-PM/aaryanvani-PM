@@ -19,6 +19,6 @@ Each README says what is implemented, what is simulated, and what still needs va
 
 ### Product experience
 
-- **Silverpush, Associate Product Manager** (<!-- YYYY–YYYY -->): live-stream and VOD advertising, video analytics, and monetization workflows. <!-- add one outcome, e.g. "shipped X, which lifted Y by Z%" -->
+- **Silverpush, Associate Product Manager/Product Manager** (<!-- YYYY–YYYY -->): live-stream and VOD advertising, video analytics, and monetization workflows. <!-- add one outcome, e.g. "shipped X, which lifted Y by Z%" -->
 - **Vidgyor, Associate Product Manager** (<!-- YYYY–YYYY -->): multistreaming, video-player monetization, and customer onboarding. <!-- add one outcome -->
 - **CompUp.io, Product Management Intern** (<!-- YYYY -->): product discovery, analytics, and work with the data science team. <!-- add one outcome -->
